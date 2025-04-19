@@ -1,0 +1,149 @@
+{
+    "Strategie": {
+        "Kernziel": "Ausrichtung der Organisation auf eine klare Zukunftsvision und strategische Handlungsfelder.",
+        "Unterkapitel": [
+            {
+                "Titel": "Vision",
+                "Beschreibung": "Langfristiges Zukunftsbild der Organisation"
+            },
+            {
+                "Titel": "Ziele",
+                "Beschreibung": "Konkret operationalisierte Ziele zur Zielerreichung"
+            },
+            {
+                "Titel": "Positionierung",
+                "Beschreibung": "Strategische Einordnung im Markt- und Branchenkontext"
+            },
+            {
+                "Titel": "Langfristplanung",
+                "Beschreibung": "Strategische Planung in mehrjährigen Horizonten"
+            }
+        ]
+    },
+    "Struktur": {
+        "Kernziel": "Effiziente und zweckmäßige Aufbauorganisation mit klaren Verantwortlichkeiten.",
+        "Unterkapitel": [
+            {
+                "Titel": "Aufbauorganisation",
+                "Beschreibung": "Organigramm, Hierarchie, Einheiten"
+            },
+            {
+                "Titel": "Rollen",
+                "Beschreibung": "Klare Rollenverteilung und Rollenklarheit"
+            },
+            {
+                "Titel": "Verantwortlichkeiten",
+                "Beschreibung": "Zuständigkeiten und Entscheidungskompetenzen"
+            },
+            {
+                "Titel": "Schnittstellen",
+                "Beschreibung": "Effiziente Übergaben und Kommunikation zwischen Bereichen"
+            }
+        ]
+    },
+    "Kultur": {
+        "Kernziel": "Geteilte Werte, Haltungen und Verhaltensmuster, die Zusammenarbeit und Identität prägen.",
+        "Unterkapitel": [
+            {
+                "Titel": "Werte",
+                "Beschreibung": "Grundüberzeugungen, auf denen Verhalten basiert"
+            },
+            {
+                "Titel": "Normen",
+                "Beschreibung": "Ungeschriebene Regeln im Umgang miteinander"
+            },
+            {
+                "Titel": "Verhaltensweisen",
+                "Beschreibung": "Tatsächliches Verhalten im Alltag"
+            },
+            {
+                "Titel": "Zusammenarbeit",
+                "Beschreibung": "Teamgeist, Kooperation, Vertrauen"
+            }
+        ]
+    },
+    "Prozesse": {
+        "Kernziel": "Effiziente Abläufe, klare Prozessverantwortung und kontinuierliche Verbesserung.",
+        "Unterkapitel": [
+            {
+                "Titel": "Abläufe",
+                "Beschreibung": "Strukturierte, transparente und nachvollziehbare Prozesse"
+            },
+            {
+                "Titel": "Effizienz",
+                "Beschreibung": "Ressourcenschonende und wirksame Ausführung"
+            },
+            {
+                "Titel": "Qualität",
+                "Beschreibung": "Fehlerminimierung, Kundenzufriedenheit, Standards"
+            },
+            {
+                "Titel": "IT-Unterstützung",
+                "Beschreibung": "Digitalisierung und Automatisierung von Prozessen"
+            }
+        ]
+    },
+    "Menschen": {
+        "Kernziel": "Entwicklung, Motivation und Wirksamkeit der Menschen in der Organisation.",
+        "Unterkapitel": [
+            {
+                "Titel": "Kompetenzen",
+                "Beschreibung": "Fachliche, soziale und methodische Fähigkeiten"
+            },
+            {
+                "Titel": "Motivation",
+                "Beschreibung": "Engagement, Sinnempfinden, Eigenverantwortung"
+            },
+            {
+                "Titel": "Entwicklung",
+                "Beschreibung": "Lern- und Weiterentwicklungsmöglichkeiten"
+            },
+            {
+                "Titel": "Führung",
+                "Beschreibung": "Qualität der Führung, Leadership, Haltung"
+            }
+        ]
+    },
+    "Steuerung": {
+        "Kernziel": "Zielgerichtete Steuerung durch transparente Ziele, Kennzahlen und Feedbacksysteme.",
+        "Unterkapitel": [
+            {
+                "Titel": "Controlling",
+                "Beschreibung": "Überwachung und Analyse der Zielerreichung"
+            },
+            {
+                "Titel": "Kennzahlen",
+                "Beschreibung": "Messgrößen zur Leistungs- und Erfolgskontrolle"
+            },
+            {
+                "Titel": "Rückkopplung",
+                "Beschreibung": "Feedback- und Lernschleifen zur Justierung"
+            },
+            {
+                "Titel": "Zielsystem",
+                "Beschreibung": "Zielvereinbarungen, OKR, Balanced Scorecard"
+            }
+        ]
+    },
+    "Umwelt/Markt": {
+        "Kernziel": "Proaktive Anpassung an externe Anforderungen, Kundenbedürfnisse und Marktdynamiken.",
+        "Unterkapitel": [
+            {
+                "Titel": "Kunden",
+                "Beschreibung": "Bedürfnisorientierung, Kundenzentrierung"
+            },
+            {
+                "Titel": "Wettbewerb",
+                "Beschreibung": "Marktposition und Differenzierung"
+            },
+            {
+                "Titel": "Trends",
+                "Beschreibung": "Früherkennung gesellschaftlicher und technischer Trends"
+            },
+            {
+                "Titel": "Partner",
+                "Beschreibung": "Netzwerke, Kooperationen, Stakeholder"
+            }
+        ]
+    }
+}
